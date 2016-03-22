@@ -1,0 +1,9 @@
+base
+pander
+xtable
+dplyr
+ggplot2
+DT
+lubridate
+googleVis
+reshape2
